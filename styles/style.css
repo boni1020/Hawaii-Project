@@ -111,9 +111,18 @@ main section.second section.cards div.card {
   justify-content: space-around;
   padding: 1rem;
 }
-main section.second section.cards div.card img {
+main section.second section.cards div.card .image-container {
   width: 15rem;
   border-radius: 50%;
+  overflow: hidden;
+}
+main section.second section.cards div.card .image-container img {
+  width: 15rem;
+  border-radius: 50%;
+  transition: all 0.2s;
+}
+main section.second section.cards div.card .image-container img:hover {
+  transform: scale(1.2);
 }
 main section.second section.cards div.card h4 {
   font-size: 2rem;

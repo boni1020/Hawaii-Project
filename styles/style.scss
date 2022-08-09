@@ -28,6 +28,7 @@ header {
     align-items: center;
     flex: 5 1 400px;
     margin-left: 2rem;
+
     img {
       width: 4rem;
       height: 4rem;
@@ -115,10 +116,18 @@ main {
         flex: 1 1 300px;
         justify-content: space-around;
         padding: 1rem;
-
-        img {
+        .image-container {
           width: 15rem;
           border-radius: 50%;
+          overflow: hidden;
+          img {
+            width: 15rem;
+            border-radius: 50%;
+            transition: all 0.2s;
+          }
+          img:hover {
+            transform: scale(1.2);
+          }
         }
         h4 {
           font-size: 2rem;
