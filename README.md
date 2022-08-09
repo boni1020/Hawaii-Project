@@ -3,9 +3,10 @@
 
 ### 作品說明
 
-使用HTML5、CSS、Sass製作RWD網站，著重於練習Flex彈性排版。
+使用HTML5、CSS、Sass製作RWD網站，練習Flex彈性排版，且注意無障礙使用者體驗。
 
-![首頁縮圖](https://i.imgur.com/KG2CKTy.jpg)
+![首頁縮圖](https://i.imgur.com/pSB0gCm.jpg)
+
 
 ### 使用技術
 - HTML
