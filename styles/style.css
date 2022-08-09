@@ -18,7 +18,12 @@ header {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  margin: 0.5rem;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: white;
+  box-shadow: 0 10px 6px -6px #777;
 }
 header div.logo {
   display: flex;
