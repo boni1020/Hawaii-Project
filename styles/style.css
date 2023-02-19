@@ -50,13 +50,13 @@ header nav ul li a {
   padding-bottom: 0.2rem;
 }
 header nav ul li a:hover {
-  border-bottom: 0.2rem solid rgb(9, 119, 125);
+  border-bottom: 0.2rem solid #09777d;
 }
 
 main section.backImage {
   min-height: 90vh;
   width: 100%;
-  background-image: url(/Pictures/pexels-photo-416676.jpeg);
+  background-image: url(../Pictures/pexels-photo-416676.jpeg);
   background-size: cover;
   background-position: center;
   position: relative;
