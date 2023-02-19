@@ -5,7 +5,7 @@
 
 使用HTML5、CSS、Sass製作，練習Flex彈性排版，增加Dynamic Header，且注意無障礙使用者體驗。
 
-DEMO：
+DEMO：https://boni1020.github.io/Hawaii-Project/
 
 ![](https://i.imgur.com/clOHUCV.jpg)
 
